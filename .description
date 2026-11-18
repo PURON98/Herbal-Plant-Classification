@@ -1,0 +1,1 @@
+Machine learning pipeline for herbal plant identification and medicinal use classification. Implements CNN architectures (VGG, ResNet, MobileNet) with transfer learning, data augmentation, and comprehensive evaluation metrics. Jupyter Notebook with TensorFlow/Keras.
